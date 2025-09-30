@@ -17,5 +17,3 @@ Clone the repo and open in Unity 6. Make sure AR Foundation and ARCore XR Plugin
 - ARCore XR Plugin
 - GitHub for version control
 
-## 📄 License
-MIT
