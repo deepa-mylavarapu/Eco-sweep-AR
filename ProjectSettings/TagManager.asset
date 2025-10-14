@@ -2,8 +2,33 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Trash
+  - Plastic Bin
+  - Metal Bin
+  - Cardboard Bin
+  - General Bin
+  - Paper Trash
+  - Pizza Box
+  - MilkBottle
+  - PaperCup
+  - WineBottle
+  - BrokenBottle
+  - BottleBeer
+  - PaperTumbler
+  - PaperCup2
+  - Bottle
+  - MilkCaten
+  - MilkBottle2
+  - Tin
+  - Paper Bin
+  - Glass Bin
+  - GlassBin
+  - PlasticBin
+  - MetalBin
+  - PaperBin
+  - ARPlane
   layers:
   - Default
   - TransparentFX
@@ -50,27 +75,3 @@ TagManager:
   - Light Layer 5
   - Light Layer 6
   - Light Layer 7
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 

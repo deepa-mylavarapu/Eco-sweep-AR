@@ -6,8 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Mainmenu.unity
+    guid: acad35e226a15f840b767080745b2c70
+  - enabled: 1
+    path: Assets/Scenes/EcoSweep.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete.unity
+    guid: 6d3c668fe77a6d04aa99425b53d8036a
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f1d7249febbb6d64bbe31dc7acbf930a, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
